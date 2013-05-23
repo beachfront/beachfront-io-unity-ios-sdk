@@ -1,0 +1,6 @@
+*firstpass.csproj
+*.pidb
+Library
+Temp
+ProjectSettings
+*.log
