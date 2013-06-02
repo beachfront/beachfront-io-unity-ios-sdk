@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{23F12876-A208-00C0-4EFA-9556AD7B1370}") = "beachfront-io-unity-ios-sdk", "Assembly-CSharp-firstpass.csproj", "{4F55AF5D-ECE8-4F36-82B8-8F9D304BF540}"
+EndProject
+Project("{23F12876-A208-00C0-4EFA-9556AD7B1370}") = "beachfront-io-unity-ios-sdk", "Assembly-CSharp.csproj", "{0711B7DE-ADB3-0425-A65F-7688A38F65DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F55AF5D-ECE8-4F36-82B8-8F9D304BF540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F55AF5D-ECE8-4F36-82B8-8F9D304BF540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F55AF5D-ECE8-4F36-82B8-8F9D304BF540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F55AF5D-ECE8-4F36-82B8-8F9D304BF540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0711B7DE-ADB3-0425-A65F-7688A38F65DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0711B7DE-ADB3-0425-A65F-7688A38F65DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0711B7DE-ADB3-0425-A65F-7688A38F65DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0711B7DE-ADB3-0425-A65F-7688A38F65DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal
