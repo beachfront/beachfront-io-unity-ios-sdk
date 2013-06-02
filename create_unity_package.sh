@@ -2,8 +2,8 @@
 
 WORKDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 UNITY_BIN="/Applications/Unity/Unity.app/Contents/MacOS/Unity"
-EXPORT_PATH="${WORKDIR}/beachfront-io-unity-sample.unitypackage"
-PROJECT_PATH="${WORKDIR}/beachfront-io-unity-sample"
+EXPORT_PATH="${WORKDIR}/beachfront-io-unity-ios-sdk.unitypackage"
+PROJECT_PATH="${WORKDIR}/beachfront-io-unity-ios-sdk"
 ASSETS_PATH="Assets"
 :
 $UNITY_BIN -batchmode -quit \
